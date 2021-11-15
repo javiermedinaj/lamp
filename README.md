@@ -1,0 +1,2 @@
+# lamp
+lamp in javascript
